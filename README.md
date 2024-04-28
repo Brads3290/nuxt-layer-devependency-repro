@@ -1,4 +1,4 @@
-## Branch: `master`
+## Branch: `working`
 Working example
 
 The `master` branch is a working example of the layer having a runtime dependency (https://github.com/unjs/ufo) and working fine.
