@@ -1,7 +1,7 @@
 ## Branch: `working`
 Working example
 
-The `master` branch is a working example of the layer having a runtime dependency (https://github.com/unjs/ufo) and working fine.
+The `working` branch is a working example of the layer having a runtime dependency (https://github.com/unjs/ufo) and working fine.
 - `nuxt-layer` depends on, and uses, unjs/ufo
 - Running `npm install` on `nuxt-app` installs `ufo` in `nuxt-app` (even though `nuxt-app` does not directly depend on it, but the layer does), and everything works.
 
